@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Emelie 👋</h1>
+<h1 align="center">Hey, I'm Melies 👋</h1>
 
 <p align="center">
   Computer Engineering student · Flutter developer · Building in public
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/Melieslabs">
+  <a href="https://twitter.com/Notkingmelies">
     <img src="https://img.shields.io/badge/X-@Melieslabs-000000?style=flat&logo=x&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Nigeria-008751?style=flat" />
@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I'm a 400-level Computer Engineering student at **Michael Okpara University of Agriculture**, Nigeria — building real apps, shipping in public, and figuring out the rest as I go.
+I'm a Computer Engineering student at **Michael Okpara University of Agriculture**, Nigeria — building real apps, shipping in public, and figuring out the rest as I go.
 
 My focus is **mobile development with Flutter**, with a growing interest in full-stack web and micro-SaaS.  
 I don't wait until things are perfect. I build, ship, and iterate.
